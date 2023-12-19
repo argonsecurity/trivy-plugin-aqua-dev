@@ -7,5 +7,5 @@ platforms:
   - selector: # optional
       os: linux
       arch: amd64
-    uri: https://github.com/argonsecurity/trivy-plugin-aqua-dev/releases/download/dev/linux_amd64_v0.157.0.tar.gz
+    uri: https://github.com/argonsecurity/trivy-plugin-aqua-dev/releases/download/dev/trivy_manual_linux_amd64.tar.gz
     bin: ./aqua
